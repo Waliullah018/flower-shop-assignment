@@ -139,5 +139,43 @@ span{
 .bt{
     text-align: center;
 }
+/*Instagram style*/
+.Instragram-Container{
+    margin-top: 40px;
+    text-align: center;
+    
+    
+}
+.insta-title{
+    font-size:35px;
+    font-weight: bold;
+    margin-bottom: 10px;
+
+}
+.instagram-describe{
+    margin: auto;
+    width: 30%
+    
+    
+}
+.first-two-flower{
+    display: flex;
+    gap: 10px;
+}
+.second-two-flower{
+    display: flex;
+    gap: 10px;
+}
+.flower-card-container{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 30px;
+    
+}
+.image-flower{
+    width: 300px;
+    height: 300px;
+}
 
 

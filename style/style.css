@@ -36,3 +36,108 @@ font-family: 'Open Sans', sans-serif;
     background-color:rgb(226, 169, 178);
     padding-top:50px;
 }
+/*Feature style*/
+
+.flower{
+    width: 350px;
+    height: 350px;
+}
+
+/*All card Style*/
+.card{
+    position: relative;
+}
+.first{
+    background-color: red;
+    width: 360px;
+    height: 360px;
+    border-top-left-radius: 165px;
+    border-top-right-radius: 165px;
+    position:absolute;
+
+}
+.second{
+    position: absolute;
+}
+.card2{
+    position: relative;
+}
+.third{
+    background-color: rgb(17, 255, 0);
+    width: 360px;
+    height: 360px;
+    border-top-left-radius: 165px;
+    border-top-right-radius: 165px;
+    position:absolute;
+}
+.fourth{
+    position: absolute;
+}
+
+.card3{
+    position: relative;
+}
+.fifth{
+    background-color: rgb(187, 252, 185);
+    width: 360px;
+    height: 360px;
+    border-top-left-radius: 165px;
+    border-top-right-radius: 165px;
+    position: absolute;
+}
+.six{
+    position: absolute;
+}
+
+.feature_box{
+    display: flex;
+    gap: 390px;
+    padding-top: 50px;
+    justify-content: center;
+    padding-right: 350px;
+    
+    
+}
+.feature{
+    text-align: center;
+
+}
+.feature-describe{
+    font-size: 15px;
+    width: 30%;
+    margin: auto;
+    color: gray;
+    
+}
+.feature-title{
+    font-size:35px;
+    font-weight: bold;
+    
+}
+.feature_Container{
+ margin-top: 40px;
+}
+
+.hot-deal-container{
+    margin-top: 450px;
+    background-color: #fde1f5;
+}
+span{
+    color: #f7456b;
+}
+.deal-describe{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: gray;
+    width: 400px;
+}
+.hot-deal-container{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+}
+.bt{
+    text-align: center;
+}
+
+

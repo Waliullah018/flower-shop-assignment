@@ -34,5 +34,5 @@ font-family: 'Open Sans', sans-serif;
     display: flex;
     justify-content: space-around;
     background-color:rgb(226, 169, 178);
-
+    padding-top:50px;
 }

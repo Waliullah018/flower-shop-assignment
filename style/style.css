@@ -171,11 +171,51 @@ span{
     gap: 10px;
     justify-content: center;
     margin-top: 30px;
+    margin-bottom: 80px;
     
 }
 .image-flower{
     width: 300px;
     height: 300px;
+}
+/* latest style  */
+.latest-title{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.latest{
+    color: gray;
+}
+input{
+    padding: 20px 200px;
+}
+.latest-Container{
+    width: 70%;
+    margin: auto;
+    background-image: url(../Flower/Rectangle\ 9.png);
+}
+.ft-title{
+    color: white;
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+.foot-des{
+
+    color: gray;
+    width: 400px;
+    margin: auto;
+}
+small{
+    color: white;
+}
+
+.footer{
+    margin-top: 50px;
+    text-align: center;
+    background-color: #272727;
+    height: 300px;
+
 }
 
 
